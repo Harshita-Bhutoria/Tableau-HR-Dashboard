@@ -1,42 +1,41 @@
-# Sales & Customer Analysis Dashboard (Tableau)
+# HR Analytics Dashboard (Tableau)
 
 ## 📊 Project Overview
-This project showcases an end-to-end Tableau dashboard solution that analyzes key business metrics related to sales performance and customer behavior. It includes two interactive dashboards—**Sales Dashboard** and **Customer Dashboard**—designed to help business stakeholders track performance, identify trends, and make data-driven decisions.
+This project demonstrates an HR analytics dashboard built using Tableau to help HR professionals monitor workforce metrics. The dashboard provides insights into employee distribution, attrition, demographics, and department-wise performance trends.
 
 ## 🎯 Objectives
-- Visualize Year-over-Year (YoY) comparisons of sales, profit, and quantity sold.
-- Analyze monthly and weekly sales trends for different product categories.
-- Identify top-performing product subcategories and customer segments.
-- Enable dynamic filtering by product categories, subcategories, and regions.
+- Provide clear visibility into headcount distribution across departments and roles.
+- Track employee attrition over time and understand potential causes.
+- Analyze demographics such as gender, education, and marital status.
+- Support data-driven decisions for workforce planning and HR strategy.
 
 ## 🧑‍💼 User Story
-As a business analyst or sales manager, I want to view interactive dashboards that present sales and customer metrics clearly, so I can:
-- Compare performance over time.
-- Identify top customers and best-selling products.
-- Gain insights into customer segmentation to drive better marketing and sales strategies.
+As an HR executive or manager, I want a centralized dashboard that presents workforce data visually, so I can:
+- Monitor employee attrition trends.
+- Understand employee demographics.
+- Plan strategic hiring and retention programs.
 
 ## 📌 Key Features
-- KPI indicators for sales, profit, and quantity
-- Monthly and weekly sales trend charts
-- Product subcategory performance bar charts
-- Interactive filters for region, category, and sub-category
-- Top customers by profit and customer segmentation
+- KPI cards for total employees, attrition rate, new hires, etc.
+- Attrition trend line charts
+- Departmental and job-role breakdowns
+- Employee demographic visuals (e.g., gender, marital status, education)
+- Filters for business units, job roles, and education fields
 
 ## 📂 Data Source
-- **Sample Superstore Dataset** (provided by Tableau)
-- Original dataset provided as part of the project materials by *Data with Baraa*
+- HR dataset (provided by Data with Baraa as part of the HR Analytics Project)
+- Data shared in CSV format along with project materials
 
 ## 🛠️ Tools & Technologies
 - Tableau
 
 ## 📚 Credits
-This project was guided by **Data with Baraa**, a well-known YouTube educator in data analytics and business intelligence.  
-Original project materials, including the dataset, dashboard design assets, and learning resources, are available for free at:
+This project was guided by **Data with Baraa**, a prominent content creator focused on data and business analytics education.  
+Project resources including the dataset, icons, dashboard assets, and mockups are freely available at:
 
-🔗 [Data with Baraa – Tableau Sales Project Materials](https://www.datawithbaraa.com/tableau/tableau-sales-project-materials/)
+🔗 [Data with Baraa – Tableau HR Project Materials](https://www.datawithbaraa.com/courses/tableau-hr-project-materials/)
 
-> All visualizations and insights were built from scratch by following Baraa's free Tableau project walkthrough on YouTube.
+> All dashboard development and insights were created independently by following Baraa's HR dashboard walkthrough on YouTube.
 
 ## 🔗 Tableau Public Link
-[👉 View the Live Dashboard](https://public.tableau.com/app/profile/harshita.bhutoria/viz/SalesCustomerAnalysis_17459240073350/SalesDashboard))
-
+[👉 View the Live Dashboard](https://public.tableau.com/app/profile/harshita.bhutoria/viz/HRDashboard_17459234880240/HRSummary)
